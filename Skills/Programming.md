@@ -5,23 +5,23 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax !
-  - Semantics !
-  - Abstraction !
-  - Paradigm !
-  - Programm !
-  - Programming paradigm !
-  - Programming language !
-  - Contract !
-  - Module !
-  - Library !
-  - Package !
-  - Component !
-  - Framework !
+  - Syntax: 🙋 explained
+  - Semantics: 🙋 explained
+  - Abstraction: 🙋 explained
+  - Paradigm: 🙋 explained
+  - Programm: 🙋 explained
+  - Programming paradigm: 🙋 explained
+  - Programming language: 🙋 explained
+  - Contract: 🙋 explained
+  - Module: 🙋 explained
+  - Library: 🙋 explained
+  - Package: 🙋 explained
+  - Component: 🙋 explained
+  - Framework: 🙋 explained
   - Platform
-  - Source code !
+  - Source code: 🙋 explained
   - Object code
-  - Machine code !
+  - Machine code: 🙋 explained
   - Microcode
   - Software engineering
   - Decomposition
@@ -30,44 +30,44 @@
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle !
+  - KISS principle: 🙋 explained
 - Syntax and concepts
-  - Value !
-  - Identifier !
-  - Variable !
-  - Constant !
-  - Scalar !
-  - Literal !
-  - Expression !
-  - Heap !
-  - Function !
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
+  - Scalar: 🙋 explained
+  - Literal: 🙋 explained
+  - Expression: 🙋 explained
+  - Heap: 🙋 explained
+  - Function: 🙋 explained
   - Procedure
-  - Method !
-  - Class !
-  - Prototype !
-  - Event !
-  - Type !
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
   - Flag
-  - Lexical scope !
-  - Code block !
-  - Conditions !
-  - Loops !
-  - Assignment !
-  - Regular expression !
-  - Interface !
-  - Namespaces !
-  - Call stack !
+  - Lexical scope: 🙋 explained
+  - Code block: 🙋 explained
+  - Conditions: 🙋 explained
+  - Loops: 🙋 explained
+  - Assignment: 🙋 explained
+  - Regular expression: 🙋 explained
+  - Interface: 🙋 explained
+  - Namespaces: 🙋 explained
+  - Call stack: 🙋 explained
   - Naming conventions
   - Coding conventions
-  - Camel case !
-  - Snake case !
-  - Kebab case !
+  - Camel case: 🙋 explained
+  - Snake case: 🙋 explained
+  - Kebab case: 🙋 explained
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types !
-  - Reference types !
+  - Primitive types: 🙋 explained
+  - Reference types: 🙋 explained
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,19 +82,19 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument !
+  - Argument: 🙋 explained
   - Parameter
-  - Pure function !
-  - Lambda expression !
-  - Side effects !
-  - Closure !
-  - Partial application !
-  - Currying !
-  - Higher order !
-  - Recursion !
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
+  - Partial application: 🙋 explained
+  - Currying: 🙋 explained
+  - Higher order: 🙋 explained
+  - Recursion: 🙋 explained
   - Tail call optimisation
-  - Callback !
-  - Listener !
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
   - Composition
   - Pipe
   - Memoize
@@ -105,21 +105,21 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array !
+  - Array: 🙋 explained
   - Structure
   - Record
-  - Enum !
-  - Instance !
-  - Object !
-  - Collection !
-  - Set !
+  - Enum: 🙋 explained
+  - Instance: 🙋 explained
+  - Object: 🙋 explained
+  - Collection: 🙋 explained
+  - Set: 🙋 explained
   - Hash table
-  - Linked list !
+  - Linked list: 🙋 explained
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue !
-  - Stack !
+  - Queue: 🙋 explained
+  - Stack: 🙋 explained
   - Deque
   - Tree
   - Graph
@@ -128,13 +128,13 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON !
+  - JSON: 🙋 explained
   - JSON5
-  - YAML !
+  - YAML: 🙋 explained
 - Networking
   - DNS
   - CDN
-  - CORS !
+  - CORS: 🙋 explained
   - IPv4
   - IPv6
   - NAT
@@ -145,10 +145,10 @@
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler !
-  - Linter !
-  - Polyfill !
-  - Interpreter !
+  - Transpiler: 🙋 explained
+  - Linter: 🙋 explained
+  - Polyfill: 🙋 explained
+  - Interpreter: 🙋 explained
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,43 +157,43 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger !
+  - Debugger: 🙋 explained
   - Tracing
-  - Garbage collection !
-  - Refactoring !
-  - Code review !
-  - Exception !
-  - Unittesting !
-  - git !
-  - Github !
-  - Docker !
+  - Garbage collection: 🙋 explained
+  - Refactoring: 🙋 explained
+  - Code review: 🙋 explained
+  - Exception: 🙋 explained
+  - Unittesting: 🙋 explained
+  - git: 🙋 explained
+  - Github: 🙋 explained
+  - Docker: 🙋 explained
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers !
-  - Hard code !
+  - Magic numbers: 🙋 explained
+  - Hard code: 🙋 explained
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
   - Spaghetti
-  - Silver bullet !
+  - Silver bullet: 🙋 explained
   - Not invented here
-  - Dead code !
-  - Unreachable code !
+  - Dead code: 🙋 explained
+  - Unreachable code: 🙋 explained
   - Duplicate code
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
-  - Large class/file !
-  - Too many parameters !
+  - Large class/file: 🙋 explained
+  - Too many parameters: 🙋 explained
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case !
+  - Use switch/case: 🙋 explained
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64 !
+  - Base64: 🙋 explained
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 !
+  - UTF-8: 🙋 explained
   - W3C
   - ODMG
