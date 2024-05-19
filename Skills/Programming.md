@@ -5,23 +5,23 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Syntax !
+  - Semantics !
+  - Abstraction !
+  - Paradigm !
+  - Programm !
+  - Programming paradigm !
+  - Programming language !
+  - Contract !
+  - Module !
+  - Library !
+  - Package !
+  - Component !
+  - Framework !
   - Platform
-  - Source code
+  - Source code !
   - Object code
-  - Machine code
+  - Machine code !
   - Microcode
   - Software engineering
   - Decomposition
@@ -30,44 +30,44 @@
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
+  - KISS principle !
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
+  - Value !
+  - Identifier !
+  - Variable !
+  - Constant !
+  - Scalar !
+  - Literal !
+  - Expression !
+  - Heap !
+  - Function !
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Method !
+  - Class !
+  - Prototype !
+  - Event !
+  - Type !
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
+  - Lexical scope !
+  - Code block !
+  - Conditions !
+  - Loops !
+  - Assignment !
+  - Regular expression !
+  - Interface !
+  - Namespaces !
+  - Call stack !
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case !
+  - Snake case !
+  - Kebab case !
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types !
+  - Reference types !
   - Type systems
   - Strong typing
   - Weak typing
@@ -82,19 +82,19 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
+  - Argument !
   - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Pure function !
+  - Lambda expression !
+  - Side effects !
+  - Closure !
+  - Partial application !
+  - Currying !
+  - Higher order !
+  - Recursion !
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback !
+  - Listener !
   - Composition
   - Pipe
   - Memoize
@@ -105,21 +105,21 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array !
   - Structure
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
+  - Enum !
+  - Instance !
+  - Object !
+  - Collection !
+  - Set !
   - Hash table
-  - Linked list
+  - Linked list !
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue !
+  - Stack !
   - Deque
   - Tree
   - Graph
@@ -128,13 +128,13 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON !
   - JSON5
-  - YAML
+  - YAML !
 - Networking
   - DNS
   - CDN
-  - CORS
+  - CORS !
   - IPv4
   - IPv6
   - NAT
@@ -145,10 +145,10 @@
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
+  - Transpiler !
+  - Linter !
+  - Polyfill !
+  - Interpreter !
   - Linker
   - Dynamic linking
   - Static linking
@@ -157,43 +157,43 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger !
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Garbage collection !
+  - Refactoring !
+  - Code review !
+  - Exception !
+  - Unittesting !
+  - git !
+  - Github !
+  - Docker !
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers !
+  - Hard code !
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
   - Spaghetti
-  - Silver bullet
+  - Silver bullet !
   - Not invented here
-  - Dead code
-  - Unreachable code
+  - Dead code !
+  - Unreachable code !
   - Duplicate code
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file !
+  - Too many parameters !
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case !
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 !
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 !
   - W3C
   - ODMG
