@@ -18,15 +18,15 @@
   - Package: 🙋 explained
   - Component: 🙋 explained
   - Framework: 🙋 explained
-  - Platform
+  - Platform *
   - Source code: 🙋 explained
   - Object code
   - Machine code: 🙋 explained
   - Microcode
   - Software engineering
-  - Decomposition
+  - Decomposition *
   - Control flow
-  - Data flow
+  - Data flow ~
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
@@ -47,7 +47,7 @@
   - Prototype: 🙋 explained
   - Event: 🙋 explained
   - Type: 🙋 explained
-  - Flag
+  - Flag +
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
@@ -57,13 +57,13 @@
   - Interface: 🙋 explained
   - Namespaces: 🙋 explained
   - Call stack: 🙋 explained
-  - Naming conventions
-  - Coding conventions
+  - Naming conventions *
+  - Coding conventions *
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
-  - Trailing commas
-  - Return early
+  - Trailing commas ~
+  - Return early ~
   - Fail-fast
 - Types
   - Primitive types: 🙋 explained
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
+  - Signature *
   - Argument: 🙋 explained
-  - Parameter
+  - Parameter *
   - Pure function: 🙋 explained
   - Lambda expression: 🙋 explained
   - Side effects: 🙋 explained
@@ -96,14 +96,14 @@
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition
-  - Pipe
-  - Memoize
+  - Pipe ~
+  - Memoize ~
   - Wrapper
-  - Functor
-  - Monad
+  - Functor ~
+  - Monad ~
   - Monoid
-  - Generator
-  - Coroutine
+  - Generator ~
+  - Coroutine ~
 - Data structures
   - Array: 🙋 explained
   - Structure
@@ -115,32 +115,32 @@
   - Set: 🙋 explained
   - Hash table
   - Linked list: 🙋 explained
-  - Doubly list
-  - Unrolled list
-  - Circular list
+  - Doubly list +
+  - Unrolled list +
+  - Circular list +
   - Queue: 🙋 explained
   - Stack: 🙋 explained
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
+  - Deque ~
+  - Tree +
+  - Graph +
+  - Iterator +
+  - Mutable state *
+  - Immutable state *
+  - Serialization ~
   - String parsing
   - JSON: 🙋 explained
-  - JSON5
+  - JSON5 ~
   - YAML: 🙋 explained
 - Networking
-  - DNS
-  - CDN
+  - DNS +
+  - CDN +
   - CORS: 🙋 explained
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 +
+  - IPv6 +
+  - NAT +
+  - URL +
   - URN
-  - URI
+  - URI +
 - Process and tools
   - Compiler
   - Just-in-time compilation
@@ -153,10 +153,10 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine *
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization *
   - Debugger: 🙋 explained
   - Tracing
   - Garbage collection: 🙋 explained
@@ -167,18 +167,18 @@
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
-  - Kubernetes
+  - Kubernetes ~
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
-  - Soft code
-  - Cryptic code
+  - Soft code +
+  - Cryptic code +
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti +
   - Silver bullet: 🙋 explained
   - Not invented here
   - Dead code: 🙋 explained
@@ -202,27 +202,27 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode +
+  - V8 +
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
+  - Kernel *
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system *
+  - Linux *
+  - Unix *
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII +
   - Escape sequence
   - RFC
   - IETF
@@ -231,8 +231,8 @@
   - Base64: 🙋 explained
   - ECMA
   - ICANN
-  - ISO
-  - MIME
+  - ISO +
+  - MIME +
   - OWASP
   - UTF-8: 🙋 explained
   - W3C
