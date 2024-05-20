@@ -3,7 +3,7 @@
 - Theory and concepts
   - Data types
   - Performance tuning
-  - Migrations
+  - Migrations *
   - Schema versioning
   - Backup and recovery
   - Database scalability
@@ -25,59 +25,59 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys *
+  - Foreign keys *
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions *
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `SELECT` *
+  - `INSERT` *
+  - `UPDATE` *
+  - `DELETE` *
+  - `LIMIT` *
+  - `OFFSET` *
+  - `ORDER BY` *
+  - `GROUP BY` *
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `EXISTS` *
+  - `JOIN` *
+  - `INNER JOIN` *
+  - `LEFT JOIN` *
+  - `RIGHT JOIN` *
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE` *
   - `LIKE`
-  - `IN`
+  - `IN` *
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `CREATE TABLE` *
+  - `ALTER TABLE` *
+  - `DROP TABLE` *
+  - `PRIMARY KEY` *
+  - `FOREIGN KEY` *
   - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `DEFAULT` *
+  - `INDEX` *
+  - `UNIQUE` *
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
+  - PostgreSQL *
+  - Oracle *
   - MySQL
-  - MariaDB
+  - MariaDB *
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB *
   - Memcached
   - Riak
   - DB2
