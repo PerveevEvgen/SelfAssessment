@@ -18,15 +18,15 @@
   - Package: 🙋 explained
   - Component: 🙋 explained
   - Framework: 🙋 explained
-  - Platform *
+  - Platform: 🖐️ used
   - Source code: 🙋 explained
   - Object code
   - Machine code: 🙋 explained
   - Microcode
   - Software engineering
-  - Decomposition *
+  - Decomposition: 🖐️ used
   - Control flow
-  - Data flow ~
+  - Data flow: 👂 heard
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
@@ -47,7 +47,7 @@
   - Prototype: 🙋 explained
   - Event: 🙋 explained
   - Type: 🙋 explained
-  - Flag +
+  - Flag: 🎓 known
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
@@ -57,13 +57,13 @@
   - Interface: 🙋 explained
   - Namespaces: 🙋 explained
   - Call stack: 🙋 explained
-  - Naming conventions *
-  - Coding conventions *
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
-  - Trailing commas ~
-  - Return early ~
+  - Trailing commas: 👂 heard
+  - Return early: 👂 heard
   - Fail-fast
 - Types
   - Primitive types: 🙋 explained
@@ -81,9 +81,9 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature *
+  - Signature: 🖐️ used
   - Argument: 🙋 explained
-  - Parameter *
+  - Parameter: 🖐️ used
   - Pure function: 🙋 explained
   - Lambda expression: 🙋 explained
   - Side effects: 🙋 explained
@@ -96,14 +96,14 @@
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition
-  - Pipe ~
-  - Memoize ~
+  - Pipe: 👂 heard
+  - Memoize: 👂 heard
   - Wrapper
-  - Functor ~
-  - Monad ~
+  - Functor: 👂 heard
+  - Monad: 👂 heard
   - Monoid
-  - Generator ~
-  - Coroutine ~
+  - Generator: 👂 heard
+  - Coroutine: 👂 heard
 - Data structures
   - Array: 🙋 explained
   - Structure
@@ -115,32 +115,32 @@
   - Set: 🙋 explained
   - Hash table
   - Linked list: 🙋 explained
-  - Doubly list +
-  - Unrolled list +
-  - Circular list +
+  - Doubly list: 🎓 known
+  - Unrolled list: 🎓 known
+  - Circular list: 🎓 known
   - Queue: 🙋 explained
   - Stack: 🙋 explained
-  - Deque ~
-  - Tree +
-  - Graph +
-  - Iterator +
-  - Mutable state *
-  - Immutable state *
-  - Serialization ~
+  - Deque: 👂 heard
+  - Tree: 🎓 known
+  - Graph: 🎓 known
+  - Iterator: 🎓 known
+  - Mutable state: 🖐️ used
+  - Immutable state: 🖐️ used
+  - Serialization: 👂 heard
   - String parsing
   - JSON: 🙋 explained
-  - JSON5 ~
+  - JSON5: 👂 heard
   - YAML: 🙋 explained
 - Networking
-  - DNS +
-  - CDN +
+  - DNS: 🎓 known
+  - CDN: 🎓 known
   - CORS: 🙋 explained
-  - IPv4 +
-  - IPv6 +
-  - NAT +
-  - URL +
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
+  - NAT: 🎓 known
+  - URL: 🎓 known
   - URN
-  - URI +
+  - URI: 🎓 known
 - Process and tools
   - Compiler
   - Just-in-time compilation
@@ -153,10 +153,10 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine *
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization *
+  - Containerization: 🖐️ used
   - Debugger: 🙋 explained
   - Tracing
   - Garbage collection: 🙋 explained
@@ -167,18 +167,18 @@
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
-  - Kubernetes ~
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
-  - Soft code +
-  - Cryptic code +
+  - Soft code: 🎓 known
+  - Cryptic code: 🎓 known
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti +
+  - Spaghetti: 🎓 known
   - Silver bullet: 🙋 explained
   - Not invented here
   - Dead code: 🙋 explained
@@ -202,27 +202,27 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode +
-  - V8 +
+  - Bytecode: 🎓 known
+  - V8: 🎓 known
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel *
+  - Kernel: 🖐️ used
   - Ring
   - Virtual memory
-  - File system *
-  - Linux *
-  - Unix *
+  - File system: 🖐️ used
+  - Linux: 🖐️ used
+  - Unix: 🖐️ used
   - BSD
   - MacOS
-  - Windows *
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII +
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF
@@ -231,8 +231,8 @@
   - Base64: 🙋 explained
   - ECMA
   - ICANN
-  - ISO +
-  - MIME +
+  - ISO: 🎓 known
+  - MIME: 🎓 known
   - OWASP
   - UTF-8: 🙋 explained
   - W3C

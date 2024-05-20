@@ -1,56 +1,56 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop !
-  - `try..catch` !
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
   - Non-blocking
-  - Async I/O *
-  - Thread pool +
-  - Pattern Reactor +
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 🎓 known
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv !
+  - libuv: 🙋 explained
   - Race conditions
-  - Dead locks +
+  - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread !
-  - Process +
+  - Thread: 🙋 explained
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks !
+  - Callbacks: 🙋 explained
   - Callback-last-error-first
   - Thenable
-  - Promise !
-  - Async/await !
-  - Future +
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
+  - Future: 🎓 known
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event +
-  - Coroutine +
-  - Goroutine +
+  - Event: 🎓 known
+  - Coroutine: 🎓 known
+  - Goroutine: 🎓 known
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware !
+  - Middleware: 🙋 explained
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify +
+  - promisify: 🎓 known
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter !
-  - Observable/Observer !
-  - Readable +
-  - Writable +
+  - EventEmitter: 🙋 explained
+  - Observable/Observer: 🙋 explained
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Async Pool
   - Async Queue
@@ -59,30 +59,30 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers !
-  - `setImmediate` !
-  - `nextTick` !
+  - Timers: 🙋 explained
+  - `setImmediate`: 🙋 explained
+  - `nextTick`: 🙋 explained
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell !
-  - Promise hell !
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
   - JSON streaming serialization
-  - AsyncLocalStorage +
+  - AsyncLocalStorage: 🎓 known
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library +
-  - Promise.all !
-  - Promise.allSettled !
-  - Promise.race !
-  - Promise.any !
+  - RxJS library: 🎓 known
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
   - Web Locks API
   - IPC
   - Channel API
