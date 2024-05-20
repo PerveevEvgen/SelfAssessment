@@ -5,7 +5,7 @@
   - Components
   - Directories
   - GRASP
-  - SOLID
+  - SOLID *
   - GoF patterns
   - CQS
   - Leaking abstractions
